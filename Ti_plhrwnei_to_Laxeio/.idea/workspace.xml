@@ -105,6 +105,10 @@
               <item name="Ti_plhrwnei_to_Laxeio" type="462c0819:PsiDirectoryNode" />
               <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Ti_plhrwnei_to_Laxeio" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -177,17 +181,17 @@
       <workItem from="1585920512864" duration="4000" />
       <workItem from="1586359093334" duration="60000" />
       <workItem from="1586534321914" duration="25000" />
-      <workItem from="1586608577345" duration="9903000" />
+      <workItem from="1586608577345" duration="10477000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="77933000" />
+    <option name="totallyTimeSpent" value="78507000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08028617" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.08028617" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -199,7 +203,7 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.3524333" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.167576" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.167576" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" />
       <window_info anchor="bottom" id="CMake" order="12" />
