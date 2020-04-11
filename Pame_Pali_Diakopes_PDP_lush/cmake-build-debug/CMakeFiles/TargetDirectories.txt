@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Pame_Pali_Diakopes_PDP_lush/cmake-build-debug/CMakeFiles/Pame_Pali_Diakopes_PDP_lush.dir
+C:/Users/zagor/CLionProjects/Pame_Pali_Diakopes_PDP_lush/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/Pame_Pali_Diakopes_PDP_lush/cmake-build-debug/CMakeFiles/rebuild_cache.dir

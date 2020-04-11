@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Cube/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/rebuild_cache.dir
+C:/Users/zagor/CLionProjects/Cube/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_5350c.dir
+C:/Users/zagor/CLionProjects/Cube/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/edit_cache.dir

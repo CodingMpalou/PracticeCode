@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Summetrikes Sumboloseires/cmake-build-debug/CMakeFiles/Summetrikes_Sumboloseires.dir
+C:/Users/zagor/CLionProjects/Summetrikes Sumboloseires/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/Summetrikes Sumboloseires/cmake-build-debug/CMakeFiles/rebuild_cache.dir

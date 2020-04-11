@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/anast.ths.boid.limn.2/cmake-build-debug/CMakeFiles/anast_ths_boid_limn_2.dir
+C:/Users/zagor/CLionProjects/anast.ths.boid.limn.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/anast.ths.boid.limn.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

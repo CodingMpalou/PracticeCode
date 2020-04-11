@@ -1,0 +1,3 @@
+"E:\Program Files\JetBrains\CLion 2018.3.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\CodeForces_Kind_Anton.dir/objects.a
+C:\mingw-64\bin\ar.exe cr CMakeFiles\CodeForces_Kind_Anton.dir/objects.a @CMakeFiles\CodeForces_Kind_Anton.dir\objects1.rsp
+C:\mingw-64\bin\g++.exe -g   -Wl,--whole-archive CMakeFiles\CodeForces_Kind_Anton.dir/objects.a -Wl,--no-whole-archive  -o CodeForces_Kind_Anton.exe -Wl,--out-implib,libCodeForces_Kind_Anton.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\CodeForces_Kind_Anton.dir\linklibs.rsp

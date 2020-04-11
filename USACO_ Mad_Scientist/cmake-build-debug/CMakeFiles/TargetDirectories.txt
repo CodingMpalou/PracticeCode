@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/USACO_ Mad_Scientist/cmake-build-debug/CMakeFiles/USACO__Mad_Scientist.dir
+C:/Users/zagor/CLionProjects/USACO_ Mad_Scientist/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/USACO_ Mad_Scientist/cmake-build-debug/CMakeFiles/rebuild_cache.dir

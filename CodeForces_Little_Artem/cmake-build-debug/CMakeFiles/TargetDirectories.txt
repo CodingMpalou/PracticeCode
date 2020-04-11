@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/CodeForces_Little_Artem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zagor/CLionProjects/CodeForces_Little_Artem/cmake-build-debug/CMakeFiles/CodeForces_Little_Artem.dir
+C:/Users/zagor/CLionProjects/CodeForces_Little_Artem/cmake-build-debug/CMakeFiles/edit_cache.dir

@@ -1,0 +1,28 @@
+name: kostis Marks=3 
+name: giorgis Marks=4 
+name: aleksakos Marks=5 
+name: aleksakos Marks=2 
+name: emmanouil Marks=9 
+
+
+fflush ( stdin) 
+
+OTAN DIAVAZO ENA ARITHMO META - > 5 KAI PATAO ENTER GIA NA TOY TO DOSO 
+SCANF ( %D, X) META PAIRNEI TON ARITHMO KAI TO ENTER MENEI STH MNHMH PLHKTROGIOY 
+
+
+H MNHMH PLHKTROLOGIOY EINAI MIA XAZH MNHMH  ME PERIPOY TETOIA MORFI 
+
+15 KAI ENTER
+
+ENTER 
+
+
+\n= enallagh grammis 
+
+gets(%s) - > exei meinei to enter sth mnhmh plhktrologioy kai painrei to enter kai tipota allo !!!
+
+
+enter a number 
+3
+enter a string enter a number 

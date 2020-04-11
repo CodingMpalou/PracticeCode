@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zagor/CLionProjects/Set/SetProject.cpp
+SetProject.h
+C:/Users/zagor/CLionProjects/Set/SetProject.h
+
+C:/Users/zagor/CLionProjects/Set/SetProject.h
+string
+-
+

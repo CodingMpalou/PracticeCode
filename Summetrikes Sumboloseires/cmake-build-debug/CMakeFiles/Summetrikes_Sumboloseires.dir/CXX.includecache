@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/zagor/CLionProjects/Summetrikes Sumboloseires/main.cpp
+iostream
+-
+string
+-
+vector
+-
+fstream
+-
+stdio.h
+-
+set
+-
+

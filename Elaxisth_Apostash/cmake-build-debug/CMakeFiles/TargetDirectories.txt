@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Elaxisth_Apostash/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zagor/CLionProjects/Elaxisth_Apostash/cmake-build-debug/CMakeFiles/Elaxisth_Apostash.dir
+C:/Users/zagor/CLionProjects/Elaxisth_Apostash/cmake-build-debug/CMakeFiles/edit_cache.dir

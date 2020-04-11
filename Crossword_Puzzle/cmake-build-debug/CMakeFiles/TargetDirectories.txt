@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Crossword_Puzzle/cmake-build-debug/CMakeFiles/Crossword_Puzzle.dir
+C:/Users/zagor/CLionProjects/Crossword_Puzzle/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/Crossword_Puzzle/cmake-build-debug/CMakeFiles/rebuild_cache.dir

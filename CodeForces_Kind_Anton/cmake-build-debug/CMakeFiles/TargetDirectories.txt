@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/CodeForces_Kind_Anton/cmake-build-debug/CMakeFiles/CodeForces_Kind_Anton.dir
+C:/Users/zagor/CLionProjects/CodeForces_Kind_Anton/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/CodeForces_Kind_Anton/cmake-build-debug/CMakeFiles/rebuild_cache.dir

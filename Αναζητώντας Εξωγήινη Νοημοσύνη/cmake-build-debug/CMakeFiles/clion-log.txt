@@ -1,0 +1,40 @@
+"E:\Program Files\JetBrains\CLion 2018.3.1\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - MinGW Makefiles" "C:\Users\zagor\CLionProjects\Αναζητώντας Εξωγήινη Νοημοσύνη"
+-- The C compiler identification is GNU 4.8.3
+-- Check for working C compiler: C:/mingw-64/bin/gcc.exe
+-- Check for working C compiler: C:/mingw-64/bin/gcc.exe -- broken
+CMake Error at E:/Program Files/JetBrains/CLion 2018.3.1/bin/cmake/win/share/cmake-3.13/Modules/CMakeTestCCompiler.cmake:52 (message):
+  The C compiler
+
+    "C:/mingw-64/bin/gcc.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    Change Dir: C:/Users/zagor/CLionProjects/Ξ‘Ξ½Ξ±Ξ¶Ξ·Ο„Ο�Ξ½Ο„Ξ±Ο‚ Ξ•ΞΎΟ‰Ξ³Ξ®ΞΉΞ½Ξ· Ξ�ΞΏΞ·ΞΌΞΏΟƒΟ�Ξ½Ξ·/cmake-build-debug/CMakeFiles/CMakeTmp
+    
+    Run Build Command:"C:/mingw-64/bin/mingw32-make.exe" "cmTC_6107c/fast"
+    C:/mingw-64/bin/mingw32-make.exe -f CMakeFiles\cmTC_6107c.dir\build.make CMakeFiles/cmTC_6107c.dir/build
+    mingw32-make.exe[1]: Entering directory 'C:/Users/zagor/CLionProjects/β”΄Ξ�Ξ¬Ο�Ο�Ξ�β– Ξ�Ξ�Ξ¬β‰¥ β”ΌΞ�β�™Ξ®β–�Ο�Ξ�Ο� β•�Ξ�Ο�Ξ‰Ξ�β‰¤Β²Ξ�Ο�/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Building C object CMakeFiles/cmTC_6107c.dir/testCCompiler.c.obj
+    C:\mingw-64\bin\gcc.exe    -o CMakeFiles\cmTC_6107c.dir\testCCompiler.c.obj   -c "C:\Users\zagor\CLionProjects\β•¬Ξ£β•¬β•�β•¬β–’β•¬β•Άβ•¬β•–β•§Ξ•β•§Ξ�β•¬β•�β•§Ξ•β•¬β–’β•§Ξ“ β•¬Ξ§β•¬β•›β•§Ξ�β•¬β”‚β•¬Ο‡β•¬β•£β•¬β•�β•¬β•– β•¬Ξ¶β•¬β”�β•¬β•–β•¬β•�β•¬β”�β•§Ξ”β•§Ξ�β•¬β•�β•¬β•–\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c"
+    gcc.exe: error: C:\Users\zagor\CLionProjects\β•¬Ξ£β•¬β•�β•¬β–’β•¬β•Άβ•¬β•–β•§Ξ•β•§Ξ�β•¬β•�β•§Ξ•β•¬β–’β•§Ξ“ β•¬Ξ§β•¬β•›β•§Ξ�β•¬β”‚β•¬Ο‡β•¬β•£β•¬β•�β•¬β•– β•¬Ξ¶β•¬β”�β•¬β•–β•¬β•�β•¬β”�β•§Ξ”β•§Ξ�β•¬β•�β•¬β•–\cmake-build-debug\CMakeFiles\CMakeTmp\testCCompiler.c: No such file or directory
+    gcc.exe: fatal error: no input files
+    compilation terminated.
+    CMakeFiles\cmTC_6107c.dir\build.make:64: recipe for target 'CMakeFiles/cmTC_6107c.dir/testCCompiler.c.obj' failed
+    mingw32-make.exe[1]: *** [CMakeFiles/cmTC_6107c.dir/testCCompiler.c.obj] Error 1
+    mingw32-make.exe[1]: Leaving directory 'C:/Users/zagor/CLionProjects/β”΄Ξ�Ξ¬Ο�Ο�Ξ�β– Ξ�Ξ�Ξ¬β‰¥ β”ΌΞ�β�™Ξ®β–�Ο�Ξ�Ο� β•�Ξ�Ο�Ξ‰Ξ�β‰¤Β²Ξ�Ο�/cmake-build-debug/CMakeFiles/CMakeTmp'
+    Makefile:120: recipe for target 'cmTC_6107c/fast' failed
+    mingw32-make.exe: *** [cmTC_6107c/fast] Error 2
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/zagor/CLionProjects/Ξ‘Ξ½Ξ±Ξ¶Ξ·Ο„Ο�Ξ½Ο„Ξ±Ο‚ Ξ•ΞΎΟ‰Ξ³Ξ®ΞΉΞ½Ξ· Ξ�ΞΏΞ·ΞΌΞΏΟƒΟ�Ξ½Ξ·/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/zagor/CLionProjects/Ξ‘Ξ½Ξ±Ξ¶Ξ·Ο„Ο�Ξ½Ο„Ξ±Ο‚ Ξ•ΞΎΟ‰Ξ³Ξ®ΞΉΞ½Ξ· Ξ�ΞΏΞ·ΞΌΞΏΟƒΟ�Ξ½Ξ·/cmake-build-debug/CMakeFiles/CMakeError.log".

@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Anasthash_ths_boidhidos_limnhs_teliko/cmake-build-debug/CMakeFiles/Anasthash_ths_boidhidos_limnhs_teliko.dir
+C:/Users/zagor/CLionProjects/Anasthash_ths_boidhidos_limnhs_teliko/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/Anasthash_ths_boidhidos_limnhs_teliko/cmake-build-debug/CMakeFiles/rebuild_cache.dir

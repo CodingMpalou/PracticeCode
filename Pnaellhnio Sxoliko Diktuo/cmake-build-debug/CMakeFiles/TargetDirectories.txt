@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Pnaellhnio Sxoliko Diktuo/cmake-build-debug/CMakeFiles/Pnaellhnio_Sxoliko_Diktuo.dir
+C:/Users/zagor/CLionProjects/Pnaellhnio Sxoliko Diktuo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/Pnaellhnio Sxoliko Diktuo/cmake-build-debug/CMakeFiles/rebuild_cache.dir

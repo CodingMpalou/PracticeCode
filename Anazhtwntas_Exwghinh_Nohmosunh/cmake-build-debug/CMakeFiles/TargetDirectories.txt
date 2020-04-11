@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Anazhtwntas_Exwghinh_Nohmosunh/cmake-build-debug/CMakeFiles/Anazhtwntas_Exwghinh_Nohmosunh.dir
+C:/Users/zagor/CLionProjects/Anazhtwntas_Exwghinh_Nohmosunh/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/Anazhtwntas_Exwghinh_Nohmosunh/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Codeforces_Level_Statistics/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zagor/CLionProjects/Codeforces_Level_Statistics/cmake-build-debug/CMakeFiles/Codeforces_Level_Statistics.dir
+C:/Users/zagor/CLionProjects/Codeforces_Level_Statistics/cmake-build-debug/CMakeFiles/edit_cache.dir

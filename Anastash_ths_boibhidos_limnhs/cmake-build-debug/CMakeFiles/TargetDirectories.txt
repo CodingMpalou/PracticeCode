@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Anastash_ths_boibhidos_limnhs/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/Anastash_ths_boibhidos_limnhs/cmake-build-debug/CMakeFiles/Anastash_ths_boibhidos_limnhs.dir
+C:/Users/zagor/CLionProjects/Anastash_ths_boibhidos_limnhs/cmake-build-debug/CMakeFiles/rebuild_cache.dir

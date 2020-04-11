@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/O_xartaetos/cmake-build-debug/CMakeFiles/O_xartaetos.dir
+C:/Users/zagor/CLionProjects/O_xartaetos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/O_xartaetos/cmake-build-debug/CMakeFiles/rebuild_cache.dir

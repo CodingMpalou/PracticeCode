@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/deiktes1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/zagor/CLionProjects/deiktes1/cmake-build-debug/CMakeFiles/deiktes1.dir
+C:/Users/zagor/CLionProjects/deiktes1/cmake-build-debug/CMakeFiles/edit_cache.dir

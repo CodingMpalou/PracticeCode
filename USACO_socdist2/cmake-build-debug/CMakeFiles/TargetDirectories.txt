@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/USACO_socdist2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/USACO_socdist2/cmake-build-debug/CMakeFiles/USACO_socdist2.dir
+C:/Users/zagor/CLionProjects/USACO_socdist2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

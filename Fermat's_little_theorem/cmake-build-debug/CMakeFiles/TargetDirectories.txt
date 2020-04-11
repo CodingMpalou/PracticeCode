@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/Fermat's_little_theorem/cmake-build-debug/CMakeFiles/Fermat_s_little_theorem.dir
+C:/Users/zagor/CLionProjects/Fermat's_little_theorem/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/Fermat's_little_theorem/cmake-build-debug/CMakeFiles/rebuild_cache.dir
