@@ -2,7 +2,7 @@
 <project version="4">
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="CodeForces_Little_Artem" targetName="CodeForces_Little_Artem" />
+      <config projectName="A__Filling_Diamonds" targetName="A__Filling_Diamonds" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -11,9 +11,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d54d1ee8-d309-4fe1-bc71-bb8229faede0" name="Default Changelist" comment="">
+    <list default="true" id="9c8038c1-057f-43ec-947e-e233804bb465" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../CodeForces_Circle_of_Monsters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces_Circle_of_Monsters/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CodeForces_Little_Artem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces_Little_Artem/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ti_plhrwnei_to_Laxeio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ti_plhrwnei_to_Laxeio/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -34,8 +34,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="812">
-              <caret line="29" column="15" selection-start-line="8" selection-start-column="4" selection-end-line="29" selection-end-column="15" />
+            <state relative-caret-position="168">
+              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="4" />
             </state>
           </provider>
         </entry>
@@ -43,8 +43,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmake-build-debug/input">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            <state relative-caret-position="56">
+              <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -52,8 +52,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmake-build-debug/output">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="56">
+              <caret line="2" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -66,16 +66,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/input" />
         <option value="$PROJECT_DIR$/cmake-build-debug/input" />
         <option value="$PROJECT_DIR$/main.cpp" />
-        <option value="$PROJECT_DIR$/cmake-build-debug/output" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="298" />
-    <option name="y" value="468" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
     <option name="width" value="1296" />
     <option name="height" value="1416" />
   </component>
@@ -89,12 +87,12 @@
         <subPane>
           <expand>
             <path>
-              <item name="CodeForces_Little_Artem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeForces_Little_Artem" type="462c0819:PsiDirectoryNode" />
+              <item name="A__Filling_Diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A. Filling Diamonds" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="CodeForces_Little_Artem" type="b2602c69:ProjectViewProjectNode" />
-              <item name="CodeForces_Little_Artem" type="462c0819:PsiDirectoryNode" />
+              <item name="A__Filling_Diamonds" type="b2602c69:ProjectViewProjectNode" />
+              <item name="A. Filling Diamonds" type="462c0819:PsiDirectoryNode" />
               <item name="cmake-build-debug" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -109,12 +107,6 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\zagor\CLionProjects\CodeForces_Little_Artem\cmake-build-debug" />
-      <recent name="C:\Users\zagor\CLionProjects\CodeForces_Little_Artem\cmake-build-debug\CMakeFiles" />
-    </key>
-  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -128,7 +120,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="CodeForces_Little_Artem" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CodeForces_Little_Artem" TARGET_NAME="CodeForces_Little_Artem" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CodeForces_Little_Artem" RUN_TARGET_NAME="CodeForces_Little_Artem">
+    <configuration name="A__Filling_Diamonds" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="A__Filling_Diamonds" TARGET_NAME="A__Filling_Diamonds" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="A__Filling_Diamonds" RUN_TARGET_NAME="A__Filling_Diamonds">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -139,30 +131,29 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d54d1ee8-d309-4fe1-bc71-bb8229faede0" name="Default Changelist" comment="" />
-      <created>1586358538325</created>
+      <changelist id="9c8038c1-057f-43ec-947e-e233804bb465" name="Default Changelist" comment="" />
+      <created>1586700371518</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1586358538325</updated>
-      <workItem from="1586358540757" duration="6000" />
-      <workItem from="1586358569349" duration="483000" />
-      <workItem from="1586359154149" duration="2168000" />
-      <workItem from="1586362773537" duration="8000" />
-      <workItem from="1586362793890" duration="8000" />
-      <workItem from="1586698770774" duration="3000" />
-      <workItem from="1586699816469" duration="553000" />
-      <workItem from="1586700393551" duration="8000" />
+      <updated>1586700371518</updated>
+      <workItem from="1586700373380" duration="19000" />
+      <workItem from="1586700402662" duration="940000" />
+      <workItem from="1586701392621" duration="4000" />
+      <workItem from="1586702456522" duration="770000" />
+      <workItem from="1586706585693" duration="17000" />
+      <workItem from="1586706673615" duration="3000" />
+      <workItem from="1586706719157" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3237000" />
+    <option name="totallyTimeSpent" value="1757000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="298" y="468" width="1296" height="1416" extended-state="0" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27588996" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12758346" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -193,22 +184,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/input">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        <state relative-caret-position="56">
+          <caret line="2" column="1" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/output">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="56">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="812">
-          <caret line="29" column="15" selection-start-line="8" selection-start-column="4" selection-end-line="29" selection-end-column="15" />
+        <state relative-caret-position="168">
+          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="4" />
         </state>
       </provider>
     </entry>

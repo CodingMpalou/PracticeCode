@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/B__Sorted_Adjacent_Differences.dir
+C:/Users/zagor/CLionProjects/B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/rebuild_cache.dir

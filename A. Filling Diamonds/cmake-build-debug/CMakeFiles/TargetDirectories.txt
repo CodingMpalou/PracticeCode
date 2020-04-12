@@ -1,0 +1,3 @@
+C:/Users/zagor/CLionProjects/A. Filling Diamonds/cmake-build-debug/CMakeFiles/A__Filling_Diamonds.dir
+C:/Users/zagor/CLionProjects/A. Filling Diamonds/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/zagor/CLionProjects/A. Filling Diamonds/cmake-build-debug/CMakeFiles/rebuild_cache.dir
