@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/main.cpp" line="99" />
+    <bookmark url="file://$PROJECT_DIR$/main.cpp" line="94" />
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
@@ -14,7 +14,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d295d0df-24de-4112-a71c-7ff3aa65505b" name="Default Changelist" comment="" />
+    <list default="true" id="d295d0df-24de-4112-a71c-7ff3aa65505b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../C. Powered Addition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C. Powered Addition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -33,10 +37,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2365">
-              <caret line="103" column="42" lean-forward="true" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
+            <state relative-caret-position="280">
+              <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
               <folding>
-                <element signature="e#0#19#0" expanded="true" />
+                <element signature="e#61#169#1" />
+                <element signature="e#199#412#0" />
+                <element signature="e#414#1347#0" />
+                <element signature="e#1349#1735#0" />
+                <element signature="e#1737#1817#0" />
+                <element signature="e#1819#3122#0" />
+                <element signature="e#3124#3323#0" />
+                <element signature="e#3325#4000#0" />
               </folding>
             </state>
           </provider>
@@ -83,7 +94,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="1273" />
     <option name="width" value="1294" />
     <option name="height" value="1407" />
@@ -185,17 +196,19 @@
       <workItem from="1586608577345" duration="11074000" />
       <workItem from="1586634375547" duration="14000" />
       <workItem from="1586698612560" duration="73000" />
+      <workItem from="1586948292529" duration="2321000" />
+      <workItem from="1586965930080" duration="1079000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="79191000" />
+    <option name="totallyTimeSpent" value="82591000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.08108108" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.081875995" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -269,10 +282,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2365">
-          <caret line="103" column="42" lean-forward="true" selection-start-line="103" selection-start-column="42" selection-end-line="103" selection-end-column="42" />
+        <state relative-caret-position="280">
+          <caret line="25" column="52" selection-start-line="25" selection-start-column="52" selection-end-line="25" selection-end-column="52" />
           <folding>
-            <element signature="e#0#19#0" expanded="true" />
+            <element signature="e#61#169#1" />
+            <element signature="e#199#412#0" />
+            <element signature="e#414#1347#0" />
+            <element signature="e#1349#1735#0" />
+            <element signature="e#1737#1817#0" />
+            <element signature="e#1819#3122#0" />
+            <element signature="e#3124#3323#0" />
+            <element signature="e#3325#4000#0" />
           </folding>
         </state>
       </provider>
