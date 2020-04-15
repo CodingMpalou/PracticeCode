@@ -4,7 +4,6 @@
 using namespace std;
 
 struct dentro{
-
     vector<int> laxnos;
     vector<int> counter_laxnos;
     vector<struct dentro> kladakia;
@@ -27,7 +26,6 @@ int large_mod(int a, long b, long c){
 void dentro_init(vector<vector<short>> laxnoi,int k){
     int i,K;
     struct dentro *temp_dentro;
-
     for (auto laxno : laxnoi)
     {
         K=0;
@@ -59,7 +57,6 @@ void dentro_init(vector<vector<short>> laxnoi,int k){
 
 void print_dentro(int K,int index_val,struct dentro **t) {
     struct dentro *d=*t;
-
     if(K<3)
     {
        if (index_val < d->laxnos.size()) {
@@ -68,9 +65,7 @@ void print_dentro(int K,int index_val,struct dentro **t) {
            print_dentro(K, index_val + 1, &d);
        }
        else
-       {
            print_dentro(K+1, 0, &d);
-       }
        cout<<d->laxnos[index_val]<<" "<<K<<" "<<index_val<<endl;
     }
 }
@@ -101,7 +96,6 @@ vector<vector<int>> koina(int K, vector<vector<short>> tuxeroi){
                 if (flag == 1)
                     break;
                 size_epipedou = temp_dentro->laxnos.size();
-                cout<<size_epipedou<<endl;
                 for (j = 0; j < size_epipedou; j++)
                 {
                     if (temp_dentro->laxnos[i] == noumero) {
@@ -129,7 +123,6 @@ vector<vector<int>> koina(int K, vector<vector<short>> tuxeroi){
 vector<short> convert(int p, int K){
     vector<short> v;
     unsigned long long int m=1;
-
     for(unsigned int i=0;i<K;i++)
     {
         m*=10;
@@ -139,12 +132,10 @@ vector<short> convert(int p, int K){
 }
 
 int main(){
-    //Variables
     int K,N,Q,p,i,j;
     vector<vector<short>> x,y;
     vector<vector<int>> res;
 
-    //In File
     FILE *fi=fopen("lottery.in","r");
     fscanf(fi,"%d %d %d", &K,&N,&Q);
     for(i=0;i<N;i++)
@@ -159,27 +150,10 @@ int main(){
     }
     fclose(fi);
 
-    //Main
     dentro_init(x,K);
     my_print();
     res=koina(K,y);
 
-    //cout<<xmasdentro.counter_laxnos[0];
-
-    /*for(i=0;i<x.size();i++){
-        for(j=0;j<x[i].size();j++)
-            cout<<x[i][j];
-        cout<<endl;
-    }
-
-    cout<<endl;
-
-    for(i=0;i<y.size();i++){
-        for(j=0;j<y[i].size();j++)
-            cout<<y[i][j];
-        cout<<endl;
-    }*/
-    //Out File
     FILE *fo=fopen("lottery.out","w");
     for(i=0;i<res.size();i++)
     {
@@ -190,6 +164,5 @@ int main(){
         fprintf(fo,"\n");
     }
     fclose(fo);
-
     return 0;
 }
