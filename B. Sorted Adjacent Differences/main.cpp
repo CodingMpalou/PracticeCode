@@ -5,36 +5,29 @@
 using namespace std;
 
 int main() {
-
-    int T,N,itemp=0,jtemp=0;
+    int T,N;
+    vector<int> res;
 
     FILE *fi=fopen("input","r");
     FILE *fo=fopen("output","w");
     fscanf(fi,"%d",&T);
-    for(int t=0;t<T;t++)
-    {
+    for(int t=0;t<T;t++){
         fscanf(fi,"%d",&N);
-        int v[N];
+        int arr[N];
         for(int n=0;n<N;n++)
-            fscanf(fi,"%d", &v[n]);
-        for(int i=0;i<N;i++)
-        {
-            for(int j=0;j<N;j++)
-            {
-                if(v[i]-v[j]>=v[i+1]-v[j])
-                {
-                    itemp=v[i];
-                    v[i]=v[i+1];
-                    v[i+1]=itemp;
-                }
-            }
-        }
-        for(int i=0;i<N;i++)
-            fprintf(fo, "%d", v[i]);
-        fprintf(fo,"\n");
+            fscanf(fi, "%d", &arr[n]);
+        sort(arr,arr+N);
+       for(int i=0;i<N;i++){
+           res.push_back(arr[i]);
+           res.push_back(arr[N-i-1]);
+       }
+       reverse(res.begin(),res.begin()+N);
+       for(int j=0;j<N;j++)
+           fprintf(fo, "%d", res[j]);
+       fprintf(fo,"\n");
+       res.clear();
     }
     fclose(fi);
     fclose(fo);
-
     return 0;
 }
