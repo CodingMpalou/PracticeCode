@@ -121,22 +121,16 @@ int main() {
     //Variables
     int N,i,Meres_diakopwn=0,p;
 
-    //In File
-    FILE *fi= fopen("longsumk.in", "r");
-    fscanf(fi, "%d %d", &N, &K);
+    freopen("longsumk.in", "r",stdin);
+    freopen("longsumk.out","w",stdout);
+    scanf("%d %d", &N, &K);
     for(i=0;i<N;i++)
     {
-        fscanf(fi,"%d",&p);
+        scanf("%d",&p);
         x.push_back(p);
     }
-    fclose(fi);
-
-    //Main
     Meres_diakopwn=bres_meres(x,K);
-
-    //Out File
-    FILE *fo=fopen("longsumk.out","w");
-    fprintf(fo, "%d",Meres_diakopwn);
-    fclose(fo);
+    printf("%d",Meres_diakopwn);
+    
     return 0;
 }

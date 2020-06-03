@@ -1,3 +1,0 @@
-"E:\Program Files\JetBrains\CLion 2018.3.1\bin\cmake\win\bin\cmake.exe" -E remove -f CMakeFiles\cmTC_46f6f.dir/objects.a
-C:\mingw-64\bin\ar.exe cr CMakeFiles\cmTC_46f6f.dir/objects.a @CMakeFiles\cmTC_46f6f.dir\objects1.rsp
-C:\mingw-64\bin\g++.exe      -Wl,--whole-archive CMakeFiles\cmTC_46f6f.dir/objects.a -Wl,--no-whole-archive  -o cmTC_46f6f.exe -Wl,--out-implib,libcmTC_46f6f.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\cmTC_46f6f.dir\linklibs.rsp

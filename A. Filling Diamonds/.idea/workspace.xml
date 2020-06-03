@@ -12,8 +12,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9c8038c1-057f-43ec-947e-e233804bb465" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../CodeForces_Circle_of_Monsters/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces_Circle_of_Monsters/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../CodeForces_Little_Artem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../CodeForces_Little_Artem/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Erasmus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Erasmus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pame_Pali_Diakopes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pame_Pali_Diakopes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pame_Pali_Diakopes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Pame_Pali_Diakopes/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Ti_plhrwnei_to_Laxeio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ti_plhrwnei_to_Laxeio/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -34,8 +35,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="4" />
+            <state relative-caret-position="392">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -83,6 +84,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -99,7 +101,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -143,17 +144,18 @@
       <workItem from="1586706585693" duration="17000" />
       <workItem from="1586706673615" duration="3000" />
       <workItem from="1586706719157" duration="4000" />
+      <workItem from="1587481704901" duration="11000" />
+      <workItem from="1587742496407" duration="3000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1757000" />
+    <option name="totallyTimeSpent" value="1771000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12758346" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1291733" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -198,8 +200,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="6" selection-start-line="6" selection-end-line="18" selection-end-column="4" />
+        <state relative-caret-position="392">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
         </state>
       </provider>
     </entry>

@@ -11,7 +11,105 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c0e9290c-1318-4d9c-a100-6fc8ee1b2afa" name="Default Changelist" comment="" />
+    <list default="true" id="c0e9290c-1318-4d9c-a100-6fc8ee1b2afa" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../class_C++_example/BMW.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../class_C++_example/BMW.h" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../A. Filling Diamonds/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../A. Filling Diamonds/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Aris/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Aris/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/B__Sorted_Adjacent_Differences.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/B__Sorted_Adjacent_Differences.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/B__Sorted_Adjacent_Differences.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/B__Sorted_Adjacent_Differences.dir/CXX.includecache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/B__Sorted_Adjacent_Differences.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/B__Sorted_Adjacent_Differences.dir/main.cpp.obj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/B__Sorted_Adjacent_Differences.dir/objects.a" beforeDir="false" afterPath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/B__Sorted_Adjacent_Differences.dir/objects.a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/input" beforeDir="false" afterPath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/input" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/output" beforeDir="false" afterPath="$PROJECT_DIR$/../B. Sorted Adjacent Differences/cmake-build-debug/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../C. Powered Addition/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../C. Powered Addition/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Elaxisth_Apostash/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Elaxisth_Apostash/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Erasmus/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Erasmus/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Kalanta/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Kalanta/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pame_Pali_Diakopes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pame_Pali_Diakopes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pame_Pali_Diakopes/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Pame_Pali_Diakopes/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pame_Pali_Diakopes_PDP_lush/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Pame_Pali_Diakopes_PDP_lush/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/a.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/a.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_46f6f.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_46f6f.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_46f6f.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_46f6f.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_46f6f.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_46f6f.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_46f6f.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_46f6f.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmTC_46f6f.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/CMakeTmp/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/cmake-build-debug/Makefile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/Test.cbp" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/cmake-build-debug/Test.cbp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/Test.exe" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/cmake-build-debug/Test.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/cmake-build-debug/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Test/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../Test/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Ti_plhrwnei_to_Laxeio/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Ti_plhrwnei_to_Laxeio/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/.idea/troll.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeCache.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CMakeCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CMakeRCCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CMakeSystem.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdC/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/3.13.1/CompilerIdCXX/a.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/CMakeDirectoryInformation.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/TargetDirectories.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/cmake.check_cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/progress.marks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/CXX.includecache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/DependInfo.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/build.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/cmake_clean.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/depend.internal" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/depend.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/flags.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/link.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/linklibs.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/main.cpp.obj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/objects.a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/objects1.rsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/CMakeFiles/troll.dir/progress.make" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/Makefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/cmake_install.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/troll.cbp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/cmake-build-debug/troll.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../troll/main.cpp" beforeDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,7 +123,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main.cpp">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="280">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#0#19#0" expanded="true" />
@@ -37,7 +135,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cmake-build-debug/dnaseq.in">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="38">
+            <state relative-caret-position="56">
               <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
             </state>
           </provider>
@@ -54,6 +152,9 @@
       </file>
     </leaf>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -69,12 +170,12 @@
     <option name="width" value="2576" />
     <option name="height" value="1416" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -91,6 +192,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -135,16 +237,18 @@
       <workItem from="1577993499706" duration="614000" />
       <workItem from="1577994475272" duration="4000" />
       <workItem from="1577995324374" duration="6000" />
+      <workItem from="1587916067017" duration="13000" />
+      <workItem from="1588609299721" duration="4000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5071000" />
+    <option name="totallyTimeSpent" value="5088000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26391098" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26788554" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -204,7 +308,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/main.cpp">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="280">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
           <folding>
             <element signature="e#0#19#0" expanded="true" />
@@ -214,7 +318,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cmake-build-debug/dnaseq.in">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
+        <state relative-caret-position="56">
           <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
