@@ -26,7 +26,7 @@ int main()
     for(int i=0;i<10;i++){
         for(int j=0;j<50;j++) {
             map[i][j]=map[i+universe->playerMovement[0]][j+universe->playerMovement[1]];
-        }
+        }asdasd
     }
     return 0;
 }
